@@ -1,0 +1,61 @@
+#title {
+    text-align: center;
+    font-size: 400%;
+    padding-top: 40px;
+}
+
+.list-group-item {
+    padding-left: 200px;
+    height: 100px;
+}
+
+.price {
+    padding-top: 10px;
+    font-size: 160%;
+}
+
+.list-group-item {
+    height: 156px;
+}
+
+#stop {
+    text-align: center;
+    padding-top: 80px;
+    font-size: 160%;
+}
+
+#product {
+    padding-top: 140px;
+    text-align: center;
+    font-size: 180%;
+}
+
+.product {
+    padding-top: 20px;
+}
+
+#amountcontent {
+    text-align: center;
+    padding-top: 80px;
+    font-size: 160%;
+}
+
+#amount2 {
+    padding-top: 20px;
+}
+
+.mb-3 {
+    padding-left: 700px;
+    padding-right: 700px;
+}
+
+#titleAccount {
+    padding-top: 60px;
+    padding-left: 120px;
+    font-size: 200%;
+}
+
+#total {
+    font-size: 200%;
+    padding-left: 120px;
+}
